@@ -2,7 +2,7 @@
     "id": "FastScroll",
     "loadorder": 1,
     "title": "{{lovesickness|FastScroll}}",
-    "description": "This mod lets you hold down the Shift key while scrolling with the mousewheel on the Trade Screen to scroll much more quickly. (I'd do it in main Inventory screen too but there's presently no entry point)\n\nhttps://github.com/Cattlesquat/FastScroll",
+    "description": "This mod lets you hold down the Shift key while scrolling with the mousewheel on the Trade Screen to scroll much more quickly. (I'd do it in main Inventory screen too but there's presently no entry point)\n\nhttps://github.com/Cattlesquat/QudFastScroll",
     "tags": "Stable,UX,UI,Cosmetic",
     "version": "1.0",
     "author": "{{ubernostrum|Cattlesquat}}",
