@@ -1,0 +1,8 @@
+{
+  "WorkshopId": 3602864119,
+  "Title": "FastScroll - Fast scrolling on Trade Screen with SHIFT key held down",
+  "Description": "This mod lets you hold down the Shift key while scrolling with the mousewheel on the Trade Screen to scroll much more quickly. (I'd do it in main Inventory screen too but there's presently no entry point)\r\n\r\nhttps://github.com/Cattlesquat/QudFastScroll",
+  "Tags": "Stable,UX,UI",
+  "Visibility": "2",
+  "ImagePath": "preview.png"
+}
